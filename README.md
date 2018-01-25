@@ -1,0 +1,1 @@
+# myreactapp_redux_voting
